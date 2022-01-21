@@ -1,0 +1,22 @@
+Estudo iniciado em 19/01/2022
+
+Aulas visualizadas:
+1 - Apresentação do Curso - Ok
+
+2 - Visão geral do Ecossistema .NET - Ok
+	- .Net é o Ecossistema
+	- Asp.Net é o framework para aplicações web
+	- Asp.Net Core é mais completo
+
+
+3 - Sobre .Net Framework, .Net Core e Xamarin - Assistindo
+	- Commom Language runtime + .Net Class Library 
+	- Asp.Net Core
+		- MVC
+		- Razor Pages
+		- Tag Helpers
+		- Blazor (framework) 
+	- Xamarin
+	SLIDES: https://docs.google.com/presentation/d/1FvIKgAR2AAA5q6CWxiUYCRt3UI88OqMP/edit#slide=id.p5
+
+4 - Padrão de codificação .Net - Pendente
